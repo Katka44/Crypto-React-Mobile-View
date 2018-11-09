@@ -1,7 +1,7 @@
 {
   "main.css": "/Crypto-React-Mobile-View/static/css/main.879c3f54.chunk.css",
-  "main.js": "/Crypto-React-Mobile-View/static/js/main.417c5ba2.chunk.js",
-  "main.js.map": "/Crypto-React-Mobile-View/static/js/main.417c5ba2.chunk.js.map",
+  "main.js": "/Crypto-React-Mobile-View/static/js/main.15230730.chunk.js",
+  "main.js.map": "/Crypto-React-Mobile-View/static/js/main.15230730.chunk.js.map",
   "static/js/1.7d6f5a3f.chunk.js": "/Crypto-React-Mobile-View/static/js/1.7d6f5a3f.chunk.js",
   "static/js/1.7d6f5a3f.chunk.js.map": "/Crypto-React-Mobile-View/static/js/1.7d6f5a3f.chunk.js.map",
   "runtime~main.js": "/Crypto-React-Mobile-View/static/js/runtime~main.f22dbe0b.js",
@@ -9,6 +9,6 @@
   "static/media/loader.svg": "/Crypto-React-Mobile-View/static/media/loader.4d106d48.svg",
   "static/css/main.879c3f54.chunk.css.map": "/Crypto-React-Mobile-View/static/css/main.879c3f54.chunk.css.map",
   "index.html": "/Crypto-React-Mobile-View/index.html",
-  "precache-manifest.25303a290d607d2e94af9413b1288005.js": "/Crypto-React-Mobile-View/precache-manifest.25303a290d607d2e94af9413b1288005.js",
+  "precache-manifest.6252c4ea5cdcc0d8c3b9db79ac10103d.js": "/Crypto-React-Mobile-View/precache-manifest.6252c4ea5cdcc0d8c3b9db79ac10103d.js",
   "service-worker.js": "/Crypto-React-Mobile-View/service-worker.js"
 }
