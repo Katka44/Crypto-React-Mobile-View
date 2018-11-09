@@ -1,0 +1,37 @@
+// import variables
+@import "../variables/variables";
+
+
+// function returns a set of background-color styles for card view
+$colors-card: (
+  minus-five-card: $card-minus-five-color,
+  minus-three-card: $card-minus-three-color,
+  minus-one-card: $card-minus-one-color,
+  zero-card: $card-zero-color,
+  plus-one-card: $card-plus-one-color,
+  plus-three-card: $card-plus-three-color,
+  plus-five-card: $card-plus-five-color,
+);
+
+@each $key, $val in $colors-card {
+  .#{$key} {
+    background-color: $val;
+  }
+}
+
+// function returns a set of background-color styles for list view
+$color-list-list: (
+  minus-five-list: $list-minus-five-color,
+  minus-three-list: $list-minus-three-color,
+  minus-one-list: $list-minus-one-color,
+  zero-list: $list-zero-color,
+  plus-one-list: $list-plus-one-color,
+  plus-three-list: $list-plus-three-color,
+  plus-five-list: $list-plus-five-color,
+);
+
+@each $key, $val in $color-list-list {
+  .#{$key} {
+    color: $val;
+  }
+}
